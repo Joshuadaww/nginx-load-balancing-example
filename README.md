@@ -38,7 +38,7 @@ Make sure you have `docker` and `docker-compose` installed.
 
 #### Clone the repository
 ```bash
-git clone https://github.com/goldenrati0/nginx-load-balancing-example.git
+git [clone https://github.com/Joshuadaww/nginx-load-balancing-example.git]
 ```
 #### Navigate to the directory
 ```bash
