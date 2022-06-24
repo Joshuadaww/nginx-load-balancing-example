@@ -7,7 +7,7 @@ const serverId = uuidv4();
 
 app.get('/hello', (req, res) => {
   res.send({
-    message: 'Hello World!! This is server1',
+    message: 'Hello World!! This is server2',
     serverId: serverId,
   });
 });
